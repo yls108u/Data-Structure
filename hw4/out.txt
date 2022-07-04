@@ -1,0 +1,10 @@
+abbreviation: false
+exact: false
+particular: false
+tout: true
+gremlin: false
+up: false
+chauffeur: true
+inhalation: true
+literally: true
+vaccine: false
